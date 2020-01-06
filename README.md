@@ -4,7 +4,7 @@ This repo is all the code written for 1322L's problem sets. I figured it would b
 The second course in computer science provides coverage of more advanced topics of object- oriented programming. This includes the use of static variables andclasses, multi-dimensional arrays, inheritance and polymorphism, text files and exception handling, recursion, and parameterized types. Elementary data structures (linked lists, stacks, and queues) are introduced to solve application problems. Graphical user interfaces and event driven programming are also introduced.
 ## Labs and Assignments
 ### Module 1
-* Lab 1 - [Review](https://ccse.kennesaw.edu/fye/docs/1322/labs/m1/fa20/CSE1322%20CS%20Lab%201%20-%20Review.docx)
+* Lab 1 - [Review](https://ccse.kennesaw.edu/fye/docs/1322/labs/m1/fa20/CSE1322%20CS%20Lab%201%20-%20Review.docx) (completed)
 * Lab 2 - [Review](https://ccse.kennesaw.edu/fye/docs/1322/labs/m1/fa20/CSE1322%20CS%20Lab%202%20-%20Review.docx)
 * Assignment 1A and 1
 ### Module 2
