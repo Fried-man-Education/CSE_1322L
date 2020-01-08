@@ -19,7 +19,7 @@ The second course in computer science provides coverage of more advanced topics 
 ### Module 4
 * Lab 7 - [Recursion](https://ccse.kennesaw.edu/fye/docs/1322/labs/m4/CSE1322%20Lab%204A%20-%20Recursion.docx) (completed)
 * Lab 8 - [Recursion II](https://ccse.kennesaw.edu/fye/docs/1322/labs/m4/CSE1322%20Lab%204B%20-%20Recursion.docx)
-* Assignment 4 - [PDF](https://ccse.kennesaw.edu/fye/docs/1322/labs/m4/CSE%201322%20Module%204%20-%20Assignment_v2.pdf)
+* Assignment 4 - [PDF](https://ccse.kennesaw.edu/fye/docs/1322/labs/m4/CSE%201322%20Module%204%20-%20Assignment_v2.pdf) (completed source)
 ### Module 5
 * Lab 9 - [ArrayLists and Linked Lists](https://ccse.kennesaw.edu/fye/docs/1322/labs/m5/CSE1322%20Java%20Lab%205A%20-%20ArrayList%20and%20LinkedList.docx)
 * Lab 10 - [Stacks and Queues](https://ccse.kennesaw.edu/fye/docs/1322/labs/m5/CSE1322%20Java%20Lab%205B%20-%20Stacks%20and%20Queues.docx)
