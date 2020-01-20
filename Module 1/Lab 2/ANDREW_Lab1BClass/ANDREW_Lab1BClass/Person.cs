@@ -12,10 +12,10 @@ namespace ANDREW_Lab1BClass
             lastName = "Smith";
         }
 
-        public Person (string inputFirst, string inputLast)
+        public Person (string firstName, string lastName)
         {
-            firstName = inputFirst;
-            lastName = inputLast;
+            this.firstName = firstName;
+            this.lastName = lastName;
         }
         public string firstName { get; set; }
         public string lastName { get; set; }
