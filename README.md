@@ -3,10 +3,10 @@ This repo is all the code written for 1322L's problem sets. I figured it would b
 ## Course Description
 The second course in computer science provides coverage of more advanced topics of object-oriented programming. This includes the use of static variables and classes, multi-dimensional arrays, inheritance and polymorphism, text files and exception handling, recursion, and parameterized types. Elementary data structures (linked lists, stacks, and queues) are introduced to solve application problems. Graphical user interfaces and event driven programming are also introduced.
 ## Labs and Assignments
-### Module 1
-* Lab 1 - [Review](https://ccse.kennesaw.edu/fye/docs/1322/labs/m1/fa20/CSE1322%20CS%20Lab%201%20-%20Review.docx) (turned in)
-* Lab 2 - [Review](https://ccse.kennesaw.edu/fye/docs/1322/labs/m1/fa20/CSE1322%20CS%20Lab%202%20-%20Review_SP20.docx) (turned in)
-* Assignment 1A and 1B - [PDF](https://ccse.kennesaw.edu/fye/docs/1322/labs/m1/fa20/CSE1322L%20Module1%20Assignment1_SP20.pdf) (turned in pseudo)
+### Module 1  (turned in)
+* Lab 1 - [Review](https://ccse.kennesaw.edu/fye/docs/1322/labs/m1/fa20/CSE1322%20CS%20Lab%201%20-%20Review.docx)
+* Lab 2 - [Review](https://ccse.kennesaw.edu/fye/docs/1322/labs/m1/fa20/CSE1322%20CS%20Lab%202%20-%20Review_SP20.docx)
+* Assignment 1A and 1B - [PDF](https://ccse.kennesaw.edu/fye/docs/1322/labs/m1/fa20/CSE1322L%20Module1%20Assignment1_SP20.pdf)
 ### Module 2
 * Lab 3 - [OOP and Inheritance](https://ccse.kennesaw.edu/fye/docs/1322/labs/m2/Spring%202020%20-%20CSE1322%20Lab%203%20-%20OOP%20and%20Inheritance.docx) (turned in)
 * Lab 4 - [Abstract Classes and Interfaces](https://ccse.kennesaw.edu/fye/docs/1322/labs/m2/CSE%201322%20Lab%202B%20-%20Abstract%20Classes%20and%20Interfaces.docx) (completed)
