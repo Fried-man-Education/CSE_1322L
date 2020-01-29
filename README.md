@@ -9,7 +9,7 @@ The second course in computer science provides coverage of more advanced topics 
 * Assignment 1A and 1B - [PDF](https://ccse.kennesaw.edu/fye/docs/1322/labs/m1/fa20/CSE1322L%20Module1%20Assignment1_SP20.pdf)
 ### Module 2
 * Lab 3 - [OOP and Inheritance](https://ccse.kennesaw.edu/fye/docs/1322/labs/m2/Spring%202020%20-%20CSE1322%20Lab%203%20-%20OOP%20and%20Inheritance.docx) (turned in)
-* Lab 4 - [Abstract Classes and Interfaces](https://ccse.kennesaw.edu/fye/docs/1322/labs/m2/CSE%201322%20Lab%202B%20-%20Abstract%20Classes%20and%20Interfaces.docx) (completed)
+* Lab 4 - [Abstract Classes and Interfaces](https://ccse.kennesaw.edu/fye/docs/1322/labs/m2/CSE%201322%20Lab%202B%20-%20Abstract%20Classes%20and%20Interfaces.docx) (turned in)
 * Assignment 2A and 2B - [PDF](https://ccse.kennesaw.edu/fye/docs/1322/labs/m2/CSE%201322%20Module%202%20-%20Assignment%202.pdf)
 ### Module 3
 * Lab 5 - [GUI](https://ccse.kennesaw.edu/fye/docs/1322/labs/m3/cs/CSE1322%20CS%20Lab%203A%20-%20GUI%20.docx)
