@@ -1,0 +1,11 @@
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 2\Assignment 2B\Assignment 2B\bin\Debug\netcoreapp2.1\Assignment 2B.deps.json
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 2\Assignment 2B\Assignment 2B\bin\Debug\netcoreapp2.1\Assignment 2B.runtimeconfig.json
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 2\Assignment 2B\Assignment 2B\bin\Debug\netcoreapp2.1\Assignment 2B.runtimeconfig.dev.json
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 2\Assignment 2B\Assignment 2B\bin\Debug\netcoreapp2.1\Assignment 2B.dll
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 2\Assignment 2B\Assignment 2B\bin\Debug\netcoreapp2.1\Assignment 2B.pdb
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 2\Assignment 2B\Assignment 2B\obj\Debug\netcoreapp2.1\Assignment 2B.csprojAssemblyReference.cache
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 2\Assignment 2B\Assignment 2B\obj\Debug\netcoreapp2.1\Assignment 2B.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 2\Assignment 2B\Assignment 2B\obj\Debug\netcoreapp2.1\Assignment 2B.AssemblyInfoInputs.cache
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 2\Assignment 2B\Assignment 2B\obj\Debug\netcoreapp2.1\Assignment 2B.AssemblyInfo.cs
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 2\Assignment 2B\Assignment 2B\obj\Debug\netcoreapp2.1\Assignment 2B.dll
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 2\Assignment 2B\Assignment 2B\obj\Debug\netcoreapp2.1\Assignment 2B.pdb
