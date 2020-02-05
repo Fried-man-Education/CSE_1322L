@@ -12,7 +12,7 @@ The second course in computer science provides coverage of more advanced topics 
 * Lab 4 - [Abstract Classes and Interfaces](https://ccse.kennesaw.edu/fye/docs/1322/labs/m2/CSE%201322%20Lab%202B%20-%20Abstract%20Classes%20and%20Interfaces.docx)
 * Assignment 2A and 2B - [PDF](https://ccse.kennesaw.edu/fye/docs/1322/labs/m2/CSE%201322%20Module%202%20-%20Assignment%202.pdf)
 ### Module 3
-* Lab 5 - [GUI](https://ccse.kennesaw.edu/fye/docs/1322/labs/m3/cs/CSE1322%20CS%20Lab%203A%20-%20GUI%20.docx)
+* Lab 5 - [GUI](https://ccse.kennesaw.edu/fye/docs/1322/labs/m3/cs/CSE1322%20CS%20Lab%203A%20-%20GUI%20.docx) (completed)
 * Lab 6 - [GUI and Strings](https://ccse.kennesaw.edu/fye/docs/1322/labs/m3/cs/CSE1322%20CS%20Lab%203B%20-%20Strings%20and%20GUI.docx)
 * Assignment 3A - Pseudocode
 * Assignment 3B - [Coding Assignment](https://ccse.kennesaw.edu/fye/docs/1322/labs/m3/java/CSE%201322%20Module%203B%20Coding%20Assignment.docx)
