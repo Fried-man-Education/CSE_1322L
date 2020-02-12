@@ -9,13 +9,13 @@ The second course in computer science provides coverage of more advanced topics 
 * Assignment 1A and 1B - [PDF](https://ccse.kennesaw.edu/fye/docs/1322/labs/m1/fa20/CSE1322L%20Module1%20Assignment1_SP20.pdf)
 ### Module 2 (turned in)
 * Lab 3 - [OOP and Inheritance](https://ccse.kennesaw.edu/fye/docs/1322/labs/m2/Spring%202020%20-%20CSE1322%20Lab%203%20-%20OOP%20and%20Inheritance.docx)
-* Lab 4 - [Abstract Classes and Interfaces](https://ccse.kennesaw.edu/fye/docs/1322/labs/m2/CSE%201322%20Lab%202B%20-%20Abstract%20Classes%20and%20Interfaces.docx)
-* Assignment 2A and 2B - [PDF](https://ccse.kennesaw.edu/fye/docs/1322/labs/m2/CSE%201322%20Module%202%20-%20Assignment%202.pdf)
+* Lab 4 - [Abstract Classes and Interfaces](https://ccse.kennesaw.edu/fye/docs/1322/labs/m2/Spring%202020%20-%20CSE1322%20Lab%204%20-%20OOP%20and%20Interfaces.docx)
+* Assignment 2A and 2B - [PDF](https://ccse.kennesaw.edu/fye/docs/1322/labs/m2/Spring%202020%20-%20CSE1322%20Assignment%202.pdf)
 ### Module 3
-* Lab 5 - [GUI](https://ccse.kennesaw.edu/fye/docs/1322/labs/m3/cs/CSE1322%20CS%20Lab%203A%20-%20GUI%20.docx) (turned in)
-* Lab 6 - [GUI and Strings](https://ccse.kennesaw.edu/fye/docs/1322/labs/m3/cs/CSE1322%20CS%20Lab%203B%20-%20Strings%20and%20GUI.docx)
+* Lab 5 - [GUI](https://ccse.kennesaw.edu/fye/docs/1322/labs/m3/Spring%202020%20-%20CSE1322%20Lab%205%20-%20GUI.docx) (turned in)
+* Lab 6 - [GUI and Strings](https://ccse.kennesaw.edu/fye/docs/1322/labs/m3/Spring%202020%20-%20CSE1322%20Lab%206%20-%20Strings%20and%20GUI.docx)
 * Assignment 3A - Pseudocode
-* Assignment 3B - [Coding Assignment](https://ccse.kennesaw.edu/fye/docs/1322/labs/m3/java/CSE%201322%20Module%203B%20Coding%20Assignment.docx)
+* Assignment 3B - [Coding Assignment](https://ccse.kennesaw.edu/fye/docs/1322/labs/m3/Spring%202020%20-%20CSE1322%20Assignment%203%20-%20GUI.pdf)
 ### Module 4
 * Lab 7 - [Recursion](https://ccse.kennesaw.edu/fye/docs/1322/labs/m4/CSE1322%20Lab%204A%20-%20Recursion.docx) (completed)
 * Lab 8 - [Recursion II](https://ccse.kennesaw.edu/fye/docs/1322/labs/m4/CSE1322%20Lab%204B%20-%20Recursion.docx) (completed)
