@@ -13,7 +13,7 @@ The second course in computer science provides coverage of more advanced topics 
 * Assignment 2A and 2B - [PDF](https://ccse.kennesaw.edu/fye/docs/1322/labs/m2/Spring%202020%20-%20CSE1322%20Assignment%202.pdf)
 ### Module 3
 * Lab 5 - [GUI](https://ccse.kennesaw.edu/fye/docs/1322/labs/m3/Spring%202020%20-%20CSE1322%20Lab%205%20-%20GUI.docx) (turned in)
-* Lab 6 - [GUI and Strings](https://ccse.kennesaw.edu/fye/docs/1322/labs/m3/Spring%202020%20-%20CSE1322%20Lab%206%20-%20Strings%20and%20GUI.docx)
+* Lab 6 - [GUI and Strings](https://ccse.kennesaw.edu/fye/docs/1322/labs/m3/Spring%202020%20-%20CSE1322%20Lab%206%20-%20Strings%20and%20GUI.docx) (completed)
 * Assignment 3A - Pseudocode
 * Assignment 3B - [Coding Assignment](https://ccse.kennesaw.edu/fye/docs/1322/labs/m3/Spring%202020%20-%20CSE1322%20Assignment%203%20-%20GUI.pdf)
 ### Module 4
