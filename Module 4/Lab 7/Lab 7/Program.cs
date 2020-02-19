@@ -18,7 +18,7 @@ namespace Lab_7
             }
             foreach (char x in "aeiou")
             {
-                if (input[0] == x)
+                if (char.ToLower(input[0]) == x)
                 {
                     return 1 + vowelCount(input.Substring(1));
                 }
