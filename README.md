@@ -17,7 +17,7 @@ The second course in computer science provides coverage of more advanced topics 
 * Assignment 3A - Pseudocode
 * Assignment 3B - [Coding Assignment](https://ccse.kennesaw.edu/fye/docs/1322/labs/m3/Spring%202020%20-%20CSE1322%20Assignment%203%20-%20GUI.pdf)
 ### Module 4
-* Lab 7 - [Recursion](https://ccse.kennesaw.edu/fye/docs/1322/labs/m4/CSE1322%20Lab%204A%20-%20Recursion.docx) (completed)
+* Lab 7 - [Recursion](https://ccse.kennesaw.edu/fye/docs/1322/labs/m4/CSE1322%20Lab%204A%20-%20Recursion.docx) (turned in)
 * Lab 8 - [Recursion II](https://ccse.kennesaw.edu/fye/docs/1322/labs/m4/CSE1322%20Lab%204B%20-%20Recursion.docx) (completed)
 * Assignment 4 - [PDF](https://ccse.kennesaw.edu/fye/docs/1322/labs/m4/CSE%201322%20Module%204%20-%20Assignment_v2.pdf) (completed source)
 ### Module 5
