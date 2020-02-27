@@ -11,11 +11,10 @@ The second course in computer science provides coverage of more advanced topics 
 * Lab 3 - [OOP and Inheritance](https://ccse.kennesaw.edu/fye/docs/1322/labs/m2/Spring%202020%20-%20CSE1322%20Lab%203%20-%20OOP%20and%20Inheritance.docx)
 * Lab 4 - [Abstract Classes and Interfaces](https://ccse.kennesaw.edu/fye/docs/1322/labs/m2/Spring%202020%20-%20CSE1322%20Lab%204%20-%20OOP%20and%20Interfaces.docx)
 * Assignment 2A and 2B - [PDF](https://ccse.kennesaw.edu/fye/docs/1322/labs/m2/Spring%202020%20-%20CSE1322%20Assignment%202.pdf)
-### Module 3 (completed)
-* Lab 5 - [GUI](https://ccse.kennesaw.edu/fye/docs/1322/labs/m3/Spring%202020%20-%20CSE1322%20Lab%205%20-%20GUI.docx) (turned in)
-* Lab 6 - [GUI and Strings](https://ccse.kennesaw.edu/fye/docs/1322/labs/m3/Spring%202020%20-%20CSE1322%20Lab%206%20-%20Strings%20and%20GUI.docx) (turned in)
-* Assignment 3A - Pseudocode
-* Assignment 3B - [Coding Assignment](https://ccse.kennesaw.edu/fye/docs/1322/labs/m3/Spring%202020%20-%20CSE1322%20Assignment%203%20-%20GUI.pdf)
+### Module 3 (turned in)
+* Lab 5 - [GUI](https://ccse.kennesaw.edu/fye/docs/1322/labs/m3/Spring%202020%20-%20CSE1322%20Lab%205%20-%20GUI.docx)
+* Lab 6 - [GUI and Strings](https://ccse.kennesaw.edu/fye/docs/1322/labs/m3/Spring%202020%20-%20CSE1322%20Lab%206%20-%20Strings%20and%20GUI.docx)
+* Assignment 3 - [Coding Assignment](https://ccse.kennesaw.edu/fye/docs/1322/labs/m3/Spring%202020%20-%20CSE1322%20Assignment%203%20-%20GUI.pdf)
 ### Module 4
 * Lab 7 - [Recursion](https://ccse.kennesaw.edu/fye/docs/1322/labs/m4/CSE1322%20Lab%204A%20-%20Recursion.docx) (turned in)
 * Lab 8 - [Recursion II](https://ccse.kennesaw.edu/fye/docs/1322/labs/m4/CSE1322%20Lab%204B%20-%20Recursion.docx) (completed)
