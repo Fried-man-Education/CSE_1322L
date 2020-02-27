@@ -12,7 +12,7 @@ namespace Lab_8
 
         static bool palindromeCheck(string input)
         {
-            if (input.Length == 0)
+            if (input.Length <= 1)
             {
                 return true;
             }
@@ -22,7 +22,7 @@ namespace Lab_8
             }
             else
             {
-                return palindromeCheck(input.Substring(1).Remove(input.Length - 2));
+                return palindromeCheck(input.Substring(1).Remove(input.Substring(1).Length - 1));
             }
         }
     }
