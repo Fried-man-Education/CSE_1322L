@@ -1,0 +1,11 @@
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 5\Lab 9\Lab 9\obj\Debug\netcoreapp3.1\Lab 9.csprojAssemblyReference.cache
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 5\Lab 9\Lab 9\obj\Debug\netcoreapp3.1\Lab 9.AssemblyInfoInputs.cache
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 5\Lab 9\Lab 9\obj\Debug\netcoreapp3.1\Lab 9.AssemblyInfo.cs
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 5\Lab 9\Lab 9\bin\Debug\netcoreapp3.1\Lab 9.exe
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 5\Lab 9\Lab 9\bin\Debug\netcoreapp3.1\Lab 9.deps.json
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 5\Lab 9\Lab 9\bin\Debug\netcoreapp3.1\Lab 9.runtimeconfig.json
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 5\Lab 9\Lab 9\bin\Debug\netcoreapp3.1\Lab 9.runtimeconfig.dev.json
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 5\Lab 9\Lab 9\bin\Debug\netcoreapp3.1\Lab 9.dll
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 5\Lab 9\Lab 9\bin\Debug\netcoreapp3.1\Lab 9.pdb
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 5\Lab 9\Lab 9\obj\Debug\netcoreapp3.1\Lab 9.dll
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 5\Lab 9\Lab 9\obj\Debug\netcoreapp3.1\Lab 9.pdb
