@@ -9,3 +9,13 @@ C:\Users\mrchargerlover\Documents\Programming Archive\1322L\Module 5\Lab 10\Lab 
 C:\Users\mrchargerlover\Documents\Programming Archive\1322L\Module 5\Lab 10\Lab 10\obj\Debug\netcoreapp2.1\Lab 10.AssemblyInfo.cs
 C:\Users\mrchargerlover\Documents\Programming Archive\1322L\Module 5\Lab 10\Lab 10\obj\Debug\netcoreapp2.1\Lab 10.dll
 C:\Users\mrchargerlover\Documents\Programming Archive\1322L\Module 5\Lab 10\Lab 10\obj\Debug\netcoreapp2.1\Lab 10.pdb
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 5\Lab 10\Lab 10\bin\Debug\netcoreapp2.1\Lab 10.deps.json
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 5\Lab 10\Lab 10\bin\Debug\netcoreapp2.1\Lab 10.runtimeconfig.json
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 5\Lab 10\Lab 10\bin\Debug\netcoreapp2.1\Lab 10.runtimeconfig.dev.json
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 5\Lab 10\Lab 10\bin\Debug\netcoreapp2.1\Lab 10.dll
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 5\Lab 10\Lab 10\bin\Debug\netcoreapp2.1\Lab 10.pdb
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 5\Lab 10\Lab 10\obj\Debug\netcoreapp2.1\Lab 10.csprojAssemblyReference.cache
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 5\Lab 10\Lab 10\obj\Debug\netcoreapp2.1\Lab 10.AssemblyInfoInputs.cache
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 5\Lab 10\Lab 10\obj\Debug\netcoreapp2.1\Lab 10.AssemblyInfo.cs
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 5\Lab 10\Lab 10\obj\Debug\netcoreapp2.1\Lab 10.dll
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 5\Lab 10\Lab 10\obj\Debug\netcoreapp2.1\Lab 10.pdb
