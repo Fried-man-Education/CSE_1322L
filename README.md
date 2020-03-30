@@ -19,10 +19,9 @@ The second course in computer science provides coverage of more advanced topics 
 * Lab 7 - [Recursion](https://ccse.kennesaw.edu/fye/docs/1322/labs/m4/CSE1322%20Lab%204A%20-%20Recursion.docx)
 * Lab 8 - [Recursion II](https://ccse.kennesaw.edu/fye/docs/1322/labs/m4/CSE1322%20Lab%204B%20-%20Recursion.docx)
 * Assignment 4 - [PDF](https://ccse.kennesaw.edu/fye/docs/1322/labs/m4/sp20/Spring%202020%20-%20CSE1322%20Assignment%204%20-%20Recursion.pdf)
-### Module 5
-* Lab 9 - [ArrayLists and Linked Lists](https://ccse.kennesaw.edu/fye/docs/1322/labs/m5/CSE1322%20Java%20Lab%205A%20-%20ArrayList%20and%20LinkedList.docx) (turned in)
-* Lab 10 - [Stacks and Queues](https://ccse.kennesaw.edu/fye/docs/1322/labs/m5/CSE1322%20Java%20Lab%205B%20-%20Stacks%20and%20Queues.docx) (turned in)
-* Assignment 5A - Pseudocode Assignment
+### Module 5 (turned in)
+* Lab 9 - [ArrayLists and Linked Lists](https://ccse.kennesaw.edu/fye/docs/1322/labs/m5/CSE1322%20Java%20Lab%205A%20-%20ArrayList%20and%20LinkedList.docx)
+* Lab 10 - [Stacks and Queues](https://ccse.kennesaw.edu/fye/docs/1322/labs/m5/CSE1322%20Java%20Lab%205B%20-%20Stacks%20and%20Queues.docx)
 * Assignment 5B - [Coding Assignment](https://ccse.kennesaw.edu/fye/docs/1322/labs/m5/CSE%201322%20Module%205B-%20Coding%20Assignment.docx)
 ### Module 6
 * Lab 11 - [Exceptions](https://ccse.kennesaw.edu/fye/docs/1322/labs/m6/CSE1322%20Java%20Lab%206A%20-%20Exceptions.docx) (turned in)
