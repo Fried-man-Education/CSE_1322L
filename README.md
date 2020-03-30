@@ -25,7 +25,7 @@ The second course in computer science provides coverage of more advanced topics 
 * Assignment 5A - Pseudocode Assignment
 * Assignment 5B - [Coding Assignment](https://ccse.kennesaw.edu/fye/docs/1322/labs/m5/CSE%201322%20Module%205B-%20Coding%20Assignment.docx)
 ### Module 6
-* Lab 11 - [Exceptions](https://ccse.kennesaw.edu/fye/docs/1322/labs/m6/CSE1322%20Java%20Lab%206A%20-%20Exceptions.docx) (completed)
+* Lab 11 - [Exceptions](https://ccse.kennesaw.edu/fye/docs/1322/labs/m6/CSE1322%20Java%20Lab%206A%20-%20Exceptions.docx) (turned in)
 * Lab 12 - [File I/O](https://ccse.kennesaw.edu/fye/docs/1322/labs/m6/CSE1322%20Java%20Lab%206B%20-%20File%20IO.docx)
 * Assignment 6A - Pseudocode Assignment
 * Assignment 6B - [Coding Assignment](https://ccse.kennesaw.edu/fye/docs/1322/labs/m6/CSE%201322%20Module%206B%20-%20Coding%20Assignment.docx) | [Zipped up text file](https://ccse.kennesaw.edu/fye/docs/1322/labs/m6/textfile.txt.zip)
