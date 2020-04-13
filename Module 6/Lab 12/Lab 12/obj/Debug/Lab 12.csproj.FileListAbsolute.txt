@@ -1,0 +1,9 @@
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 6\Lab 12\Lab 12\bin\Debug\Lab 12.exe.config
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 6\Lab 12\Lab 12\bin\Debug\Lab 12.exe
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 6\Lab 12\Lab 12\bin\Debug\Lab 12.pdb
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 6\Lab 12\Lab 12\obj\Debug\Lab 12.csprojAssemblyReference.cache
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 6\Lab 12\Lab 12\obj\Debug\Lab_12.Form1.resources
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 6\Lab 12\Lab 12\obj\Debug\Lab_12.Properties.Resources.resources
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 6\Lab 12\Lab 12\obj\Debug\Lab 12.csproj.GenerateResource.cache
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 6\Lab 12\Lab 12\obj\Debug\Lab 12.exe
+C:\Users\Andrew Friedman\Documents\GitHub\1322L\Module 6\Lab 12\Lab 12\obj\Debug\Lab 12.pdb
