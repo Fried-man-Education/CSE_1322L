@@ -26,7 +26,7 @@ The second course in computer science provides coverage of more advanced topics 
 ### Module 6
 * Lab 11 - [Exceptions](https://ccse.kennesaw.edu/fye/docs/1322/labs/m6/CSE1322%20Java%20Lab%206A%20-%20Exceptions.docx) (turned in)
 * Lab 12 - [File I/O](https://ccse.kennesaw.edu/fye/docs/1322/labs/m6/CSE1322%20Java%20Lab%206B%20-%20File%20IO.docx) (turned in)
-* Assignment 6B - [Coding Assignment](https://ccse.kennesaw.edu/fye/docs/1322/labs/m6/CSE%201322%20Module%206B%20-%20Coding%20Assignment.docx) | [Zipped up text file](https://ccse.kennesaw.edu/fye/docs/1322/labs/m6/textfile.txt.zip) (completed)
+* Assignment 6B - [Coding Assignment](https://ccse.kennesaw.edu/fye/docs/1322/labs/m6/CSE%201322%20Module%206B%20-%20Coding%20Assignment.docx) | [Zipped up text file](https://ccse.kennesaw.edu/fye/docs/1322/labs/m6/textfile.txt.zip) (turned in)
 ### Module 7
 * Lab 13 - [Parallelism](https://ccse.kennesaw.edu/fye/docs/1322/labs/m7/CSE1322%20Lab%207B%20-%20Parallelism.docx) | [Alice.zip](https://ccse.kennesaw.edu/fye/docs/1322/labs/m7/alice.txt.zip) (completed)
 * Assignment 7B - [Coding Assignment](https://ccse.kennesaw.edu/fye/docs/1322/labs/m7/CSE%201322%20Module%207B%20-%20Coding%20Assignment.docx)
