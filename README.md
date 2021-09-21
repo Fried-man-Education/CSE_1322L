@@ -1,4 +1,4 @@
-# 1322L
+# Kennesaw State's CSE 1322L - Programming & Problem Solving II
 This repo is all the code written for 1322L's problem sets. I figured it would be easier to keep track of all my code for the course if I dropped it on GitHub. So here it is. [Live List of Problem Sets](https://ccse.kennesaw.edu/fye/1322_labs_assignments.php). [Live Rules of KSU Pseudocode](https://ccse.kennesaw.edu/fye/pseudocode/pseudocodeguide.php).
 ## Course Description
 The second course in computer science provides coverage of more advanced topics of object-oriented programming. This includes the use of static variables and classes, multi-dimensional arrays, inheritance and polymorphism, text files and exception handling, recursion, and parameterized types. Elementary data structures (linked lists, stacks, and queues) are introduced to solve application problems. Graphical user interfaces and event driven programming are also introduced.
